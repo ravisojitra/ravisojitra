@@ -11,4 +11,4 @@
 - 📫 How to reach me:  [`@email`](mailto:ravisojitra79@gmail.com) [`@linkedin`](https://www.linkedin.com/in/ravisojitra/)
 - ⚡ Fun fact: <3 Chess, Javascript
 
- <img src="https://github-readme-stats.vercel.app/api?username=jasanishubh123&show_icons=true&theme=gotham" alt="jasanishubh123" />
+ <img src="https://github-readme-stats.vercel.app/api?username=ravisojitra&show_icons=true&theme=gotham" alt="Ravi Sojitra" />
