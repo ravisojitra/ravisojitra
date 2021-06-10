@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ravisojitra.ravisojitra)
 
-- 🏢 I’m currently working at [Coruscate Solutions Pvt. Ltd.](https://www.coruscate.com/)
+- 🏢 I’m currently working at [DhiWise](https://www.dhiwise.com/)
 - 🔭 I’m experienced in: `.js`, `react`, `react-native`, `.meteor.js`, `electron.js`, `codeigniter`, `Node.js`, `Socket.io`, `mongodb`,...
 - 🌱 I’m currently learning: `.graphql`, `Matter.js`,`Unity + AR/VR`
 - 👯 I’m looking to collaborate on: **Open source React.js/React Native projects**
