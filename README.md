@@ -17,7 +17,7 @@
      <td>Profile stats</td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://app.daily.dev/ravisojitra"><img src="https://api.daily.dev/devcards/ae224fc2e954439d86df00a4560a4541.png?r=ioo" width="400" alt="ravi's Dev Card"/></a></td>
+    <td valign="top"><a href="https://app.daily.dev/ravisojitra"><img src="https://github.com/ravisojitra/ravisojitra/blob/master/devcard.svg" width="400" alt="ravi's Dev Card"/></a></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ravisojitra&show_icons=true&theme=gotham" alt="Ravi Sojitra" /></td>
   </tr>
  </table>
